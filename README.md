@@ -1,6 +1,6 @@
 # Authors 
- - Birva Dave | GitHub: [Birva1809](https://github.com/Birva1809)
- - Brijraj Kacha | GitHub: [BR-Kacha](https://github.com/BR-Kacha)
+ - **Birva Dave** | GitHub: [Birva1809](https://github.com/Birva1809)
+ - **Brijraj Kacha** | GitHub: [BR-Kacha](https://github.com/BR-Kacha)
 
 # ArUco Marker Detection
 
